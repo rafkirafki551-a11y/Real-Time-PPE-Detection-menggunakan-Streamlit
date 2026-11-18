@@ -20,7 +20,7 @@ st.set_page_config(
     layout="wide"
 )
 
-MODEL_PATH = "best.pt"
+MODEL_PATH = "model.pt"
 
 # =====================================
 # 2. LOAD MODEL
